@@ -5,6 +5,7 @@ terza riga
 3,5
 
 quarta riga
+4,5
 quinta riga
 sesta riga
 <div>
